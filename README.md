@@ -1,0 +1,2 @@
+# twitter_bot_gemini
+Geminiを使用してツイート内容を自動生成、返答までしてくれるbotプログラム
